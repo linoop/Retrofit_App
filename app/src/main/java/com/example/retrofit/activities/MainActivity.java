@@ -20,6 +20,8 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+//Sample retrofit project
+
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.editTextEmail)
